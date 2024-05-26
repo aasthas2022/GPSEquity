@@ -4,6 +4,11 @@
 
 GPS Equity is not just another stock market application. It’s your ultimate tool for staying ahead in the stock market. Built with the cutting-edge SwiftUI framework, GPS Equity offers real-time data, personalized insights, and a vibrant community to help you navigate the complexities of investing.
 
+## Project Demo Video
+
+[App Demo](https://github.com/aasthas2022/GPSEquity/assets/126644082/7f313fa4-b5e6-4cb3-8932-fde0c5a70823)
+
+
 ## Project Overview
 
 ### Getting Started with GPS Equity
